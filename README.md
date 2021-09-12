@@ -18,7 +18,7 @@
   ## Installation
   In order to install this project you will need to fork & clone our repository and run the needed NPM installations. Following that you will need to start up the Mongodb database and server and then start the React app using 'npm start' or any equivalent command.
   ## Usage
-  A link to the deployed application can be found [here]().
+  A link to the deployed application can be found [here](https://bucket--s.herokuapp.com).
 
   ![Screenshot](./client/src/images/screencap.jpg)
     
